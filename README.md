@@ -1,28 +1,37 @@
-<div class="column">
-  <a href="https://github.com/flopotok">
-    <img align="center" width="49%" src="./header.svg" />
-  </a>
-  <a href="https://github.com/flopotok">
-    <img align="center" width="49%" src="./repositories.svg" />
-  </a>
-  <a href="https://github.com/flopotok">
-    <img align="center" width="49%" src="./iso_calender.svg" />
-  </a>
-  <a href="https://github.com/flopotok">
-    <img align="center" width="49%" src="./github-habits.svg" />
-  </a>
-</div>
-<div class="column">
-  <a href="https://github.com/flopotok">
-    <img align="center" width="29%" src="./hooked-on-phonics.jpg" />
-  </a>
-<!--   <a href="https://github.com/flopotok">
-    <img align="center" width="49%" src="./acti_comm.svg" />
-  </a> -->
-<!--   <a href="https://github.com/flopotok">
-    <img align="center" width="49%" src="./issue_pr_lang.svg" />
-  </a> -->
-<!--   <a href="https://github.com/flopotok">
-    <img align="center" width="49%" src="./achievements.svg" />
-  </a> -->
-</div>
+<!-- Profile Overview -->
+<!-- <h2 align="center">Florencia Comuzzi @florenciacomuzzi</h2> -->
+
+<!-- Stats table -->
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/florenciacomuzzi">
+        <img src="./header.svg" alt="Header" width="400" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/florenciacomuzzi">
+        <img src="./repositories.svg" alt="Top Repositories" width="400" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/florenciacomuzzi">
+        <img src="./iso_calender.svg" alt="ISO Calendar" width="400" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/florenciacomuzzi">
+        <img src="./github-habits.svg" alt="GitHub Habits" width="400" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <a href="https://github.com/florenciacomuzzi">
+        <img src="./hooked-on-phonics.jpg" alt="Hooked on Phonics" width="300" />
+      </a>
+    </td>
+  </tr>
+</table>
