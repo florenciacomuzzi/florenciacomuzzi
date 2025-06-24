@@ -16,7 +16,7 @@ jobs:
           filename: achievements.svg
           token: ${{ secrets.METRICS_SECRET }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
-          user: flopotok
+          user: florenciacomuzzi
           base: achievements
           plugin_achievements: yes
           plugin_achievements_threshold: B      # Display achievements with rank B or higher
@@ -36,7 +36,7 @@ jobs:
           committer_token: ${{ secrets.GITHUB_TOKEN }}
 
           # Options
-          user: flopotok
+          user: florenciacomuzzi
           template: classic
           base: header
           config_timezone: ${{ secrets.USER_TIMEZONE }}
@@ -63,7 +63,7 @@ jobs:
           committer_token: ${{ secrets.GITHUB_TOKEN }}
 
           # Options
-          user: flopotok
+          user: florenciacomuzzi
           template: classic
           base: activity, community
           config_timezone: ${{ secrets.USER_TIMEZONE }}
@@ -80,7 +80,7 @@ jobs:
           committer_token: ${{ secrets.GITHUB_TOKEN }}
 
           # Options
-          user: flopotok
+          user: florenciacomuzzi
           template: classic
           base: ""
           config_timezone: ${{ secrets.USER_TIMEZONE }}
@@ -96,7 +96,7 @@ jobs:
           token: ${{ secrets.METRICS_SECRET }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           config_timezone: ${{ secrets.USER_TIMEZONE }} # Set timezone
-          user: flopotok
+          user: florenciacomuzzi
           base: ""
           template: classic
           plugin_habits: yes
@@ -119,7 +119,7 @@ jobs:
           committer_token: ${{ secrets.GITHUB_TOKEN }}
 
           # Options
-          user: flopotok
+          user: florenciacomuzzi
           template: classic
           base: ""
           config_timezone: ${{ secrets.USER_TIMEZONE }}
@@ -139,7 +139,7 @@ jobs:
           committer_token: ${{ secrets.GITHUB_TOKEN }}
 
           # Options
-          user: flopotok
+          user: florenciacomuzzi
           template: classic
           base: repositories
           config_timezone: ${{ secrets.USER_TIMEZONE }}
@@ -156,7 +156,7 @@ jobs:
           committer_token: ${{ secrets.GITHUB_TOKEN }}
 
           # Options
-          user: flopotok
+          user: florenciacomuzzi
           template: terminal
           base: header, metadata
           config_timezone: ${{ secrets.USER_TIMEZONE }}
@@ -169,7 +169,7 @@ jobs:
           filename: metrics.plugin.topics.svg
 
           # Options
-          user: flopotok
+          user: florenciacomuzzi
           template: terminal
           base: ''
           config_timezone: ${{ secrets.USER_TIMEZONE }}
